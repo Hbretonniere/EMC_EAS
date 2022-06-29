@@ -1,0 +1,7 @@
+astropy
+zenodo_get
+matplotlib
+h5py
+latex
+# dvipng
+# Ghostscript
